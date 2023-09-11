@@ -5,4 +5,4 @@ z*
 .env
 
 # Ignore a top-level (root level) directory named "artifacts"
-artifacts/
+/artifacts/
