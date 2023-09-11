@@ -1,8 +1,8 @@
 # Ignore all files starting with the letter "z"
-[Zz]*
+z*
 
 # Ignore a file called ".env"
-*.env
+.env
 
 # Ignore a top-level (root level) directory named "artifacts"
 artifacts/
